@@ -100,7 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MyShop.WebUI\MyShop.WebUI.csproj">
-      <Project>{6C4390B0-DCCB-4402-9BE0-0FFAB2B8C7DD}</Project>
+      <Project>{6c4390b0-dccb-4402-9be0-0ffab2b8c7dd}</Project>
       <Name>MyShop.WebUI</Name>
     </ProjectReference>
   </ItemGroup>
